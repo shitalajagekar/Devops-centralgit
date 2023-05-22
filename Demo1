@@ -1,0 +1,3 @@
+a = init(input("enter the no"))
+b = init(input("entar the no"))
+print a,b
